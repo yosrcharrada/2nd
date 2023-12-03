@@ -6,6 +6,11 @@ body {
     
     display: flex;
 }
+nav a {
+    color: black;
+    text-decoration: none;
+    margin: 0 10px;
+}
 #left-column {
     background-color: white;
     padding: 20px;
